@@ -1,4 +1,4 @@
-### Olá, eu sou o Vinícius Sena ✌️
+t### Olá, eu sou o Vinícius Sena ✌️
 
 ![vsenadev's Stats](https://github-readme-stats.vercel.app/api?username=vsenadev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![vsenadev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsenadev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
@@ -25,4 +25,4 @@
 </div>
 
 ## Sobre mim
-Profissional e estudante da área de Engenharia da Computação com conhecimentos em Html5, Css3, Sass, Javascript, React, Angular, Css3, .Net, C#, Python, Kotlin, Sqlite, Sqlserver, Figma.
+Profissional e estudante da área de Engenharia da Computação com conhecimentos em React, Node, Nest, Typescript,Html5, Css3, Sass, Javascript, Angular, Css3, .Net, C#, Python, Kotlin, Sqlite, Sqlserver, Figma.
