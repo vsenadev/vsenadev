@@ -30,5 +30,3 @@ Olá, eu sou o Vinícius Sena ✌️
 Profissional e estudante da área de Engenharia da Computação com conhecimentos em React, Node, Nest, Typescript,Html5, Css3, Sass, Javascript, Angular, Css3, .Net, C#, Python, Kotlin, Sqlite, Sqlserver, Figma.
 
 Que é um readme para página inicial no github como posso fazer para aumentar o tamanho e centralizar essa tag
-
-![vsenadev's Stats](https://github-readme-stats.vercel.app/api?username=vsenadev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
