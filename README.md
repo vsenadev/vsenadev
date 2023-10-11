@@ -36,4 +36,4 @@ Olá, eu sou o Vinícius Sena ✌️
 </div>
 
 ## Sobre mim
-Sou um profissional e estudante de Engenharia da Computação com experiência emdiversas tecnologias, incluindo HTML, CSS, JavaScript, TypeScript, Angular, React, C#, .NET, Java, Python, SQL Server, MongoDB, Docker e tenho conhecimento em metodologias ágeis e Azure. Atualmente exerço a função de desenvolvedor fullstack, trabalhando principalmente com React, NestJS, Python e SQL Server. Além disso, acumulei experiência como suporte N1, lidando com o atendimento e encaminhamento de chamados, resolução de bugs e implementação de melhorias.
+Sou um profissional e estudante de Engenharia da Computação com experiência em diversas tecnologias, incluindo HTML, CSS, JavaScript, TypeScript, Angular, React, C#, .NET, Java, Python, SQL Server, MongoDB, Docker e tenho conhecimento em metodologias ágeis e Azure. Atualmente exerço a função de desenvolvedor fullstack, trabalhando principalmente com React, NestJS, Python e SQL Server. Além disso, acumulei experiência como suporte N1, lidando com o atendimento e encaminhamento de chamados, resolução de bugs e implementação de melhorias.
