@@ -3,8 +3,8 @@ Olá, me chamo Vinícius Sena ✌️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-sena-/)
 
 
-![vsenadev's Stats](https://github-readme-stats.vercel.app/api?username=vsenadev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)![vsenadev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vsenadev&theme=vue-dark&hide_border=false)
-
+![vsenadev's Stats](https://github-readme-stats.vercel.app/api?username=vsenadev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![vsenadev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vsenadev&theme=vue-dark&hide_border=false)
 ![vsenadev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsenadev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
