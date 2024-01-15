@@ -3,9 +3,9 @@ Olá, me chamo Vinícius Sena ✌️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-sena-/)
 
 
-![vsenadev's Stats](https://github-readme-stats.vercel.app/api?username=vsenadev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-[![vsenadev Streak](https://streak-stats.demolab.com/?user=vsenadev)](https://git.io/streak-stats)
-![vsenadev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsenadev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![vsenadev's Stats](https://github-readme-stats.vercel.app/api?username=vsenadev&theme=sea-dark&show_icons=true&hide_border=false&count_private=true)
+[![vsenadev Streak](https://streak-stats.demolab.com/?user=vsenadev&theme=sea-dark)](https://git.io/streak-stats)
+![vsenadev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsenadev&theme=sea-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 ## Tecnlogias que possuo conhecimento
