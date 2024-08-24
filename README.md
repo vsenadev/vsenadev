@@ -1,6 +1,6 @@
 Olá, me chamo Vinícius Sena ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-sena-/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vin%C3%ADcius-sena-/](https://www.linkedin.com/in/vinicius-sena-/))
 
 
 ![vsenadev's Stats](https://github-readme-stats.vercel.app/api?username=vsenadev&theme=sea-dark&show_icons=true&hide_border=false&count_private=true)
